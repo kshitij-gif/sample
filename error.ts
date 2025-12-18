@@ -39,3 +39,4 @@ export const errorHandler: ErrorRequestHandler = (err, req, res, next) => {
 
 
 export default { errorConverter, errorHandler };    
+export { };
